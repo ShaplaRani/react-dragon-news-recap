@@ -6,6 +6,7 @@ A: {}
 B: ReferenceError: greetign is not defined
 C: undefined
 Answer:
+
 2. Write the correct answer from the following options and give an explanation (2-5 lines).
 function sum(a, b) {
   return a + b;
@@ -16,7 +17,8 @@ A: NaN
 B: TypeError
 C: "12"
 D: 3
-Answer
+Answer:
+
 3. Write the correct answer from the following options and give an explanation (2-5 lines).
 const food = ["🍕", "🍫", "🥑", "🍔"];
 const info = { favoriteFood: food[0] };
@@ -29,6 +31,7 @@ B: ['🍝', '🍫', '🥑', '🍔']
 C: ['🍝', '🍕', '🍫', '🥑', '🍔']
 D: ReferenceError
 Answer
+
 4. Write the correct answer from the following options and give an explanation (2-5 lines).
 function sayHi(name) {
   return `Hi there, ${name}`;
@@ -40,6 +43,7 @@ B: Hi there, undefined
 C: Hi there, null
 D: ReferenceError
 Answer
+
 5. Write the correct answer from the following options and give an explanation (2-5 lines).
 let count = 0;
 const nums = [0, 1, 2, 3];
